@@ -1,4 +1,9 @@
-### Hi there 👋
+## MCVLIX 🎋🔭🌃
+
+Fight for an exciting future and fuel it with love.
+
+[Discord][https://discord.gg/yzxh5RyfS2]
+
 
 <!--
 **mcvlix/mcvlix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
