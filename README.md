@@ -2,7 +2,7 @@
 
 Fight for an exciting future and fuel it with love.
 
-[Discord][https://discord.gg/yzxh5RyfS2]
+[Discord](https://discord.gg/yzxh5RyfS2)
 
 
 <!--
