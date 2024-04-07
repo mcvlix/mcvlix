@@ -1,11 +1,12 @@
 ## MCVLIX 🎋🔭🌃
 
+### Hello! My name is Max Calixto and I'm an Applied Math Student at UCSC.
+
 - 🔭 I’m currently working on building a VR graphing calculator
 - 🌱 I’m currently learning Three.js
-- 💬 Ask me about math
-- 📫 How to reach me: marcinas@ucsc.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Wrestling
+- 📫 How to reach me: marcinas@ucsc.edu
 
 <!--
 **mcvlix/mcvlix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
