@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on building a VR graphing calculator
 - 🌱 I’m currently learning Three.js
 - 😄 Pronouns: he/him
-- 💬 Ask me about: Cooking, Puzzles, Math, Wrestling, 
+- 💬 Ask me about: Cooking, Puzzles, Math, Wrestling 
 - 📫 How to reach me: marcinas@ucsc.edu
 
 --- 
