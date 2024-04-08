@@ -6,7 +6,7 @@
 🌱 I’m currently learning Three.js\
 😄 Pronouns: he/him\
 💬 Ask me about: Cooking, Puzzles, Math, Wrestling\
-📫 How to reach me: marcinas@ucsc.edu\
+📫 How to reach me: marcinas@ucsc.edu
 
 --- 
 
