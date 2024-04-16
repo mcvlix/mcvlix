@@ -1,6 +1,6 @@
 ## MCVLIX 🎋🔭🌃
 
-### Hello! My name is Max Calixto and I'm an Applied Math Student at UCSC.
+### Max Calixto - Applied Math @ UC Santa Cruz.
 
 🔭 I’m currently working on building a VR graphing calculator\
 🌱 I’m currently learning Three.js\
