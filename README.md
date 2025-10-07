@@ -1,6 +1,6 @@
 ## MCVLIX 🎋🔭🌃
 
-### Max Calixto - Applied Math @ UC Santa Cruz.
+### Max Calixto - B.S. Applied Mathematics @ UC Santa Cruz.
 
 🔭 I’m currently working on implementing and teaching CUDA Kernels\
 🌱 I’m currently learning Stochastic Differential Equations\
