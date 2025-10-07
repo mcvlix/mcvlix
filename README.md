@@ -2,8 +2,8 @@
 
 ### Max Calixto - Applied Math @ UC Santa Cruz.
 
-🔭 I’m currently working on building a VR graphing calculator\
-🌱 I’m currently learning Three.js\
+🔭 I’m currently working on implementing and teaching CUDA Kernels\
+🌱 I’m currently learning Stochastic Differential Equations\
 😄 Pronouns: he/him\
 💬 Ask me about: Crossfit, Wrestling\
 📫 How to reach me: marcinas@ucsc.edu
