@@ -10,7 +10,7 @@
 
 I am researching **stateless, holographic proofs of human identity**. My work focuses on the **Rosario-Wang Proof (RWP)** system, a new cryptographic primitive that treats human memory and neural dynamics not as data to be stored, but as a **bounded dynamical system** that generates unique, unforgeable interaction traces.
 
-We spend a lot of time in the ENI6MA lab, very close to some of San Francisco's major tech buildinbgs.
+We spend a lot of time in the privvate ENI6MA lab, very close to some of San Francisco's major tech headquarters.
 
 *   **🔭 Focus Areas:** Epistemic Incompleteness, Information-Theoretic Safety, Robot Correctness.
 *   **🧠 Key Concept:** Identity is not a *credential* you hold; it is an *interaction* you perform.
